@@ -1,0 +1,6 @@
+.vscode/
+images/
+pdfs/*
+dist/
+build/
+*.spec
